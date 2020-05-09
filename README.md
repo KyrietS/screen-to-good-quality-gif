@@ -35,7 +35,7 @@ After your GIF is imported and loaded you can edit single frames or selected fra
 
 ## 4. View the result
 ![](images/result.gif)
-* it is 16 seconds long in 30 FPS and it takes 8 MB. Not bad.
+* it's 16 seconds long GIF in 30 FPS  and it takes 8 MB. Not bad.
 
 ## Few tips
 * Remember to keep your GIFs short! 
