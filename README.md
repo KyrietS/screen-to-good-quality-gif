@@ -26,10 +26,10 @@ You can use any other tool that can capture your screen in good quality and save
 This might take a while. This process extracts single frames from your MP4. That way you always get constant FPS.
 
 ## 3. Export GIF
+After your GIF is imported and loaded you can edit single frames or selected fragments. For more info read [ScreenToGif Guide](https://github.com/NickeManarin/ScreenToGif/wiki/help).
+
 ![](images/ready.png)
 * I choose *FFmpeg* encoder because it's the fastest one and the quality is great.
-
-After your GIF is imported and loaded you can edit single frames or selected fragments. For more info read [ScreenToGif Guide](https://github.com/NickeManarin/ScreenToGif/wiki/help).
 
 ![](images/export.png)
 
