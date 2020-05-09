@@ -13,7 +13,7 @@ Follow this tutorial to get good quality GIF with 60 FPS that won't take huge am
 * [OBS Studio](https://obsproject.com/download) (free) - for capturing good quality MP4
 
 ## 1. Capture your screen with OBS Studio
-You can use any other tool that can capture your screen with good quality and saves the result to MP4 format. You can capture your screen with 60 FPS too!
+You can use any other tool that can capture your screen in good quality and save the result to MP4 format. You can capture your screen with 60 FPS too!
 
 ## 2. Open ScreenToGif
 ### 2.1. Open the Editor
