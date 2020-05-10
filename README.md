@@ -34,7 +34,9 @@ After your GIF is imported and loaded you can edit single frames or selected fra
 ![](images/export.png)
 
 ## 4. View the result
-![](images/result.gif)
+![](images/result.gif)\
+GIF above is scaled badly by your browser. Click to see in full resolution.
+
 * it's 16 seconds long GIF in 30 FPS  and it takes 8 MB. Not bad.
 
 ## Few tips
