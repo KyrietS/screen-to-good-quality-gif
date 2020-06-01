@@ -6,7 +6,7 @@ Maybe you want to create some tutorial / blog post with GIFs in it.
 
 No matter what your goal is, it's not easy to obtain good quality GIF from screen recording. The most popular tool [ScreenToGif](https://www.screentogif.com/) isn't the best option for making GIF 1920x1080. It'll be laggy and you won't get constant FPS.
 
-Follow this tutorial to get good quality GIF with 60 FPS that won't take huge amount of space.
+Follow this tutorial to get good quality GIF with 60 FPS that won't take huge amount of space. (ofc it depends on how much colors are in your GIF and how long it is)
 
 ## What you need
 * [ScreenToGif](https://www.screentogif.com/) (free) - for exporting GIF
@@ -41,6 +41,7 @@ GIF above is scaled badly by your browser. Click to see in full resolution.
 
 ## Few tips
 * Remember to keep your GIFs short! 
+* The more colors are in you GIF footage the bigger it gets!
 * If your GIF is too heavy, try to scale down the footage when importing (step 2.2)
 * You don't have to export your whole screen. You can cut part of your screen in *ScreenToGif Editor* to get nice zoom.
 
